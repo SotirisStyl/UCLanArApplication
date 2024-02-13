@@ -1,6 +1,6 @@
 # UCLan AR Map - Agile Project
 
-> **_NOTE:_** Unity ver. 2022.3.19f1
+> **_NOTE:_** Unity ver. 2022.3.16f1
 
 ## About
 This project is for (UCLan) The Agile Professional Module assignment. This is a Unity AR Mobule cross-platform application that serves to help disabled people to get familiar with UCLan accessable routes and provides such fuctionality as (may be changed):
